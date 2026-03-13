@@ -2,12 +2,13 @@
 author: Denney Yang
 pubDatetime: 2022-02-07T20:20:44+08:00
 title: Linux中使用Qv2ray
-featured: False
-draft: False
+featured: false
+draft: false
 tags:
-  - notes
+- notes
 description: 前言  最近有在Linux上使用机场工具的需求，但在网上找了一圈发现Linux上可用的机场工具相当少，大部分的机场工具都是在windows和mac平台上使用的，最后还是找到了一个Linux上可用的机场工具——Qv2ray。但是这个工具在2021.8.17已经停止维护了，但以前的版本还是可用的，有总比...
 ---
+
 ## 前言
 
 最近有在Linux上使用机场工具的需求，但在网上找了一圈发现Linux上可用的机场工具相当少，大部分的机场工具都是在windows和mac平台上使用的，最后还是找到了一个Linux上可用的机场工具——Qv2ray。但是这个工具在2021.8.17已经停止维护了，但以前的版本还是可用的，有总比没有好，凑合着用吧。

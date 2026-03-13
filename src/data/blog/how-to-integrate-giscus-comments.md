@@ -1,15 +1,13 @@
 ---
-author: FjellOverflow
+author: Denney Yang
 pubDatetime: 2024-07-25T11:11:53Z
-modDatetime: 2025-03-12T12:28:53Z
 title: How to integrate Giscus comments into AstroPaper
-slug: how-to-integrate-giscus-comments
 featured: false
 draft: false
 tags:
-  - astro
-  - blog
-  - docs
+- astro
+- blog
+- docs
 description: Comment function on a static blog hosted on GitHub Pages with Giscus.
 ---
 

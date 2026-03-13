@@ -1,14 +1,12 @@
 ---
-author: Sat Naing
+author: Denney Yang
 pubDatetime: 2022-09-23T04:58:53Z
-modDatetime: 2026-01-10T13:04:53.851Z
 title: How to configure AstroPaper theme
-slug: how-to-configure-astropaper-theme
-featured: true
+featured: false
 draft: false
 tags:
-  - configuration
-  - docs
+- configuration
+- docs
 description: How you can make AstroPaper theme absolutely yours.
 ---
 
@@ -233,39 +231,3 @@ export default defineConfig({
 1. **Update the Font component in `Layout.astro`:**
 
 ```astro file=src/layouts/Layout.astro
----
-import { Font } from "astro:assets";
-// ...
----
-
-<head>
-  <!-- ... -->
-  // [!code highlight:4]
-  <Font
-    cssVariable="--font-your-font"
-    preload={[{ subset: "latin", weight: 400, style: "normal" }]}
-  />
-  <!-- ... -->
-</head>
-```
-
-1. **Update the CSS variable mapping in `global.css`:**
-
-```css file=src/styles/global.css
-@theme inline {
-  --font-app: var(--font-your-font); /* [!code highlight] */
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --color-accent: var(--accent);
-  --color-muted: var(--muted);
-  --color-border: var(--border);
-}
-```
-
-The `--font-app` variable is used throughout the theme via the `font-app` Tailwind utility class, so updating this single variable will apply your custom font everywhere.
-
-> **Note**: Make sure the font name matches exactly as it appears on [Google Fonts](https://fonts.google.com). For other font providers or local fonts, refer to the [Astro Experimental Fonts API documentation](https://docs.astro.build/en/reference/experimental-flags/fonts/).
-
-## Conclusion
-
-This is the brief specification of how you can customize this theme. You can customize more if you know some coding. For customizing styles, please read [this article](https://astro-paper.pages.dev/posts/customizing-astropaper-theme-color-schemes/). Thanks for reading.✌🏻

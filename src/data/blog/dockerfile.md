@@ -2,12 +2,13 @@
 author: Denney Yang
 pubDatetime: 2021-09-10T20:59:47+08:00
 title: DockerFile
-featured: False
-draft: False
+featured: false
+draft: false
 tags:
-  - notes
+- notes
 description: DockerFile介绍  dockerfile是用来构建docker镜像的文件！命令参数脚本！  构建步骤：  1. 编写一个dockerfile文件 2. docker build 构建成为一个镜像 3. docker run 运行镜像 4. docker push 发布镜像（DockerHub...
 ---
+
 ## DockerFile介绍
 
 dockerfile是用来构建docker镜像的文件！命令参数脚本！

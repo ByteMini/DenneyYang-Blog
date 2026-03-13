@@ -2,12 +2,13 @@
 author: Denney Yang
 pubDatetime: 2021-12-17T21:48:13+08:00
 title: CDN绕过
-featured: False
-draft: False
+featured: false
+draft: false
 tags:
-  - notes
+- notes
 description: 什么是CDN  CDN（content Delivery Network或Content Distribution network）即内容分发网络，为了加快网站的访问速度而设置的网站内容缓存节点。开启了CDN的网站可以让用户从离他们最近的缓存节点来访问网站内容，从而提高了网站的访问速度。  没有CD...
 ---
+
 ## 什么是CDN
 
 CDN（content Delivery Network或Content Distribution network）即**内容分发网络**，为了加快网站的访问速度而设置的网站内容缓存节点。开启了CDN的网站可以让用户从离他们最近的缓存节点来访问网站内容，从而提高了网站的访问速度。

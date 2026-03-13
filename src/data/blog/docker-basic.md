@@ -2,12 +2,13 @@
 author: Denney Yang
 pubDatetime: 2021-09-04T20:38:43+08:00
 title: 初识Docker
-featured: False
-draft: False
+featured: false
+draft: false
 tags:
-  - notes
+- notes
 description: Docker概述   Docker为什么出现  首先一款产品的生产要经历开发，上线等步骤，产品上线后又需要运维进行维护。而开发、运维的环境是不一样的，所以这就导致了当产品开发出来，准备部署到服务器上时，常常会出现不能正常运行的情况。我们需要在服务器上配置与开发一样的环境，但配置环境是费时费力的过程。...
 ---
+
 ## Docker概述
 
 ### Docker为什么出现

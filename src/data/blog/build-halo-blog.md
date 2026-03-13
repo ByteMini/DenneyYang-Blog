@@ -2,12 +2,13 @@
 author: Denney Yang
 pubDatetime: 2021-11-29T22:00:23+08:00
 title: 搭建halo博客
-featured: False
-draft: False
+featured: false
+draft: false
 tags:
-  - notes
+- notes
 description: 前言  博客搬家啦！！！★,°:.☆(￣▽￣)/$:.°★ 。经过两天的折腾终于把新博客搭建好了，新博客使用halo博客系统，同时在服务器上使用Docker进行部署，再使用nginx做反向代理。最开始是在Debian系统上搭建的，但后来因为一些原因又将服务器系统换成了CentOS，本着日常记坑的优良...
 ---
+
 ## 前言
 
 博客搬家啦！！！*★,°*:.☆(￣▽￣)/$:*.°★* 。经过两天的折腾终于把新博客搭建好了，新博客使用halo博客系统，同时在服务器上使用Docker进行部署，再使用nginx做反向代理。最开始是在Debian系统上搭建的，但后来因为一些原因又将服务器系统换成了CentOS，本着日常记坑的优良做事原则，肯定得把搭建过程中遇到的坑点给记录一下，方便自己日后回顾，同时也希望能给正在搭建halo博客的朋友们一点参考。

@@ -2,12 +2,13 @@
 author: Denney Yang
 pubDatetime: 2022-07-22T10:25:13+08:00
 title: Java安全之RMI
-featured: False
-draft: False
+featured: false
+draft: false
 tags:
-  - notes
+- notes
 description: 如何理解RMI  RMI全称是Remote Method Invocation，即远程方法调用，和RPC(Remote Procedure Call)即远程过程调用类似。RMI的作用就是让某个Java虚拟机中的对象调用另外一个Java虚拟机中对象的方法，RMI是Java独有的一种机制。  现在我们模...
 ---
+
 ## 如何理解RMI
 
 RMI全称是Remote Method Invocation，即远程方法调用，和RPC(Remote Procedure Call)即远程过程调用类似。RMI的作用就是让某个Java虚拟机中的对象调用另外一个Java虚拟机中对象的方法，RMI是Java独有的一种机制。

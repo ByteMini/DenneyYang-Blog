@@ -2,12 +2,13 @@
 author: Denney Yang
 pubDatetime: 2021-11-30T21:38:18+08:00
 title: nginx反向代理后图片不能正常显示的问题
-featured: False
-draft: False
+featured: false
+draft: false
 tags:
-  - notes
+- notes
 description: 问题描述  自己在搭建halo博客的时候，当做到使用nginx做反向代理这一步时，按照[官方文档](https://docs.halo.run/getting-started/install/other/oneinstack)中“与 OneinStack 配合使用”做方向代理的方法，我根据文档的步骤...
 ---
+
 ##  问题描述
 
 自己在搭建halo博客的时候，当做到使用nginx做反向代理这一步时，按照[官方文档](https://docs.halo.run/getting-started/install/other/oneinstack)中“与 OneinStack 配合使用”做方向代理的方法，我根据文档的步骤一步一步做下来，一切都感觉良好，博客的确成功使用nginx做了反向代理，但是当我打开管理后台的时候，发现主题的图片、自己上传到本地服务器的图片都不能正常显示出来，然后就开始疯狂google，结果网上的回答比较零碎，但发现应该就是nginx配置文件的问题，最后更改了配置文件的内容，成功解决问题。

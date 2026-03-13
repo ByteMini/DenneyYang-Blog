@@ -2,12 +2,13 @@
 author: Denney Yang
 pubDatetime: 2022-02-06T21:53:10+08:00
 title: VirtualBox导入vulnhub靶机各种报错
-featured: False
-draft: False
+featured: false
+draft: false
 tags:
-  - notes
+- notes
 description: VirtualBox没有安装扩展包报错  ![QQ截图20220206140308](https://s2.loli.net/2022/02/06/potSrD78QI9HNgE.png)   出现问题的原因  VirtualBox没有安装扩展包   解决方法  到官方（https://www.vi...
 ---
+
 ## VirtualBox没有安装扩展包报错
 
 ![QQ截图20220206140308](https://s2.loli.net/2022/02/06/potSrD78QI9HNgE.png)

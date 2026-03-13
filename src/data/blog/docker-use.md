@@ -2,12 +2,13 @@
 author: Denney Yang
 pubDatetime: 2021-09-06T20:45:22+08:00
 title: 使用Docker
-featured: False
-draft: False
+featured: false
+draft: false
 tags:
-  - notes
+- notes
 description: Docker的常用命令   帮助命令  shell docker version    显示docker的版本信息 docker info       显示docker的系统信息，包括镜像和容器的数量 docker 命令 --help  帮助命令   帮助文档地址：https://docs.dock...
 ---
+
 ## Docker的常用命令
 
 ### 帮助命令

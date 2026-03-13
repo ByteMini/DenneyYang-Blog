@@ -2,12 +2,13 @@
 author: Denney Yang
 pubDatetime: 2022-11-11T19:02:28+08:00
 title: 多种抓包工具联合分析app流量
-featured: False
-draft: False
+featured: false
+draft: false
 tags:
-  - notes
+- notes
 description: 前言  最近需要经常对app进行抓包分析，有时单一的抓包工具对流量的分析不够全面。偶然间看到了一篇先知社区上的文章： https://xz.aliyun.com/t/11817，这篇文章讲述了多种工具联合对app抓包的方法，但根据作者的思路，我没能成功，最后我根据作者的思路换了一下代理顺序，最后成功...
 ---
+
 ## 前言
 
 最近需要经常对app进行抓包分析，有时单一的抓包工具对流量的分析不够全面。偶然间看到了一篇先知社区上的文章： https://xz.aliyun.com/t/11817，这篇文章讲述了多种工具联合对app抓包的方法，但根据作者的思路，我没能成功，最后我根据作者的思路换了一下代理顺序，最后成功抓到了app流量，特此记录一下以便后期回顾，同时也希望帮助到有需要的朋友。
