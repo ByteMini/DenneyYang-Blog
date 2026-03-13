@@ -14,7 +14,7 @@ export const SITE = {
   editPost: {
     enabled: true,
     text: "Edit page",
-    url: "https://github.com/satnaing/astro-paper/edit/main/",
+    url: "https://github.com/ByteMini/DenneyYang-Blog/blob/main/",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
