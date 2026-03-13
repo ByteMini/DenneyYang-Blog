@@ -45,15 +45,6 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
         Welcome to my blog, I'm Denney Yang. 
         I believe that the records I leave behind are proof that I once existed in this world.
       </p>
-      <p class="mt-2">
-        Read the blog posts or check
-        <LinkButton
-          class="underline decoration-dashed underline-offset-4 hover:text-accent"
-          href="https://github.com/satnaing/astro-paper#readme"
-        >
-          README
-        </LinkButton> for more info.
-      </p>
       {
         // only display if at least one social link is enabled
         SOCIALS.length > 0 && (
