@@ -1,37 +1,32 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "关于"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+🍓 **简介**
 
-![Astro Paper](public/astropaper-og.jpg)
+🥕 唯心相交，静行致远。你好，朋友！🤝  
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+🥕 这里是我的知识记录库，也是私人树洞  
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+---
 
-## Features
+🍉 **自我介绍**  
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+🌱 身份：网安爱好者&从业者  
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+🌱 爱好：科技 | 格斗 | 国学 | 音乐 …  
 
-and so much more.
+---
 
-## Show your support
+🍁 **博客变迁史**  
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+🍃 2019.11：开通CSDN博客，尝试写博客
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
+🍃 2021.11：使用 halo 搭建个人博客
 
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
+🍃 2021.12：购买 top 域名，使用 hugo 搭建个人博客
 
-Kyay zuu! 🙏🏼
+🍃 2022.05：使用 github pages + hugo 搭建个人博客
+
+🍃 2025.03：使用 astro 迁移个人博客
