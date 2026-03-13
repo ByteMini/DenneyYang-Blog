@@ -29,5 +29,7 @@ const { title, description, ...props } = data;
     </Heading>
   </a>
   <Datetime {...props} />
-  <p>{description}</p>
+  <p>{description?.length > 80 
+  ? description.slice(0, 80) + '...' 
+  : description + '...'}</p>
 </li>

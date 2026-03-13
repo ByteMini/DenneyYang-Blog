@@ -17,7 +17,7 @@ title: "关于我"
 
 🌸 **联系方式**
 
-🍀 Gmail： weunknowing@gmail.com
+🍀 Gmail：weunknowing@gmail.com
 
 🍀 Telegram：[@Denney_Yang](https://t.me/Denney_Yang)
 
