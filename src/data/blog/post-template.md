@@ -3,8 +3,7 @@ title: Astro文章模版
 author: Denney Yang                      
 pubDatetime: 2026-03-14T22:25:00+08:00      
 slug: template-post                      
-description: 这里写 100-160 个字符的一句话描述，用于 SEO 和文章卡片预览 
-ogImage: /og.png?title=文章模版       
+description: 这里写 100-160 个字符的一句话描述，用于 SEO 和文章卡片预览      
 tags:                                      
   - notes  
 draft: false                               
