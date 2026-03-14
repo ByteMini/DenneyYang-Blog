@@ -35,6 +35,8 @@ title: "关于我"
 
 🍃 2022.10：服务器快到期，不想续了，使用Github+Cloudflare-Page的方式搭建Hugo静态博客
 
+🍃 2024.05：开始搭建github.io博客
+
 🍃 2026.03：根据OpenClaw推荐，使用astro博客框架，搭建AstroPaper主题博客
 
 ---
