@@ -4,7 +4,7 @@ export const SITE = {
   profile: "https://www.denneyang.com/",
   desc: "Record denney's life",
   title: "Denney's Blog",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "alone_art_field.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 4,
