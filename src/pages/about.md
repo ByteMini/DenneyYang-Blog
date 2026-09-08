@@ -5,7 +5,7 @@ title: "关于我"
 
 🍉 **个人情况**  
 
-🌱 现状：网安牛马（待业版）
+🌱 现状：游民
 
 🌱 爱好：太多咯... 
 
@@ -17,9 +17,9 @@ title: "关于我"
 
 🌸 **联系方式**
 
-🍀 Gmail：weunknowing@gmail.com
+🍀 Gmail：seaflyflower@gmail.com
 
-🍀 Telegram：[@Denney_Yang](https://t.me/Denney_Yang)
+🍀 Telegram：[@Denney_Young](https://t.me/Denney_Young)
 
 ---
 
